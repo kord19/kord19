@@ -46,6 +46,7 @@
 </div>
 
 
+<h1>My Github contributions :</h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kord19/kord19/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kord19/kord19/output/github-contribution-grid-snake.svg">
