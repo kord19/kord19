@@ -1,9 +1,12 @@
+<p align=center><img src="https://giffiles.alphacoders.com/121/12113.gif"/></p>
+
 <div>
    <h1 align="center"?
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Kord!" />
     </a>
    </h1>
+   <img src="https://visitcount.itsvg.in/api?id=kord19&label=Profile%20Views&color=2&icon=5&pretty=false" />
 
    <h3 align="center">Front End/Mobile Dev</h3>
 </div>
@@ -46,9 +49,3 @@
 </div>
 
 
-<h1>My Github contributions :</h1>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kord19/kord19/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kord19/kord19/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kord19/kord19/output/github-contribution-grid-snake.svg">
-</picture>
